@@ -1,6 +1,6 @@
 const entries = [
     {
-        date: 1/1/1,
+        date: "2019-08-07",
         conceptsCovered: "all of them",
         journalEntry: "First day",
         mood:"happy",
